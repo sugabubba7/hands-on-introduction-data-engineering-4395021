@@ -42,3 +42,9 @@
 2025-02-27 18:01:27,761 INFO - Launched DagFileProcessorManager with pid: 20738
 2025-02-27 18:01:27,763 INFO - Resetting orphaned tasks for active dag runs
 2025-02-27 18:01:27,766 INFO - Configured default timezone Timezone('UTC')
+2025-02-27 18:06:27,838 INFO - Resetting orphaned tasks for active dag runs
+2025-02-27 18:11:27,878 INFO - Resetting orphaned tasks for active dag runs
+2025-02-27 18:16:27,919 INFO - Resetting orphaned tasks for active dag runs
+2025-02-27 18:21:27,959 INFO - Resetting orphaned tasks for active dag runs
+2025-02-27 18:26:27,996 INFO - Resetting orphaned tasks for active dag runs
+2025-02-27 18:31:28,036 INFO - Resetting orphaned tasks for active dag runs
